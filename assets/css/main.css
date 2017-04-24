@@ -2809,7 +2809,7 @@
 				z-index: 4;
 			}
 
-			.tiles article:before {
+			/*.tiles article:before {
 				-moz-transition: opacity 0.5s ease;
 				-webkit-transition: opacity 0.5s ease;
 				-ms-transition: opacity 0.5s ease;
@@ -2839,7 +2839,7 @@
 
 			.tiles article:hover:before {
 				opacity: 0;
-			}
+			}*/
 
 			.tiles article.is-transitioning {
 				-moz-transform: scale(0.95);
